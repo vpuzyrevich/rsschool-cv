@@ -279,3 +279,102 @@ footer {
 .logo {
     width: 90px;
 }
+@media (max-width: 1400px) {
+    .foto {
+        width: 370px;
+        height: 370px;
+    }
+}
+@media (max-width: 1200px) {
+    .foto {
+        width: 300px;
+        height: 300px;
+    }
+    .contacts-item:nth-child(3)::before {
+        top: 85px;
+    }
+    .contacts-item:nth-child(4)::before {
+        top: 113px;
+    }
+    .contacts-item:nth-child(5)::before {
+        top: 141px;
+    }
+}
+@media (max-width: 992px) {
+    .nav-list {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .main {
+        display: block;
+    }
+    .block-left, .block-right {
+        width: 100%;
+    }
+    .foto {
+        width: 400px;
+        height: 400px;
+    }
+    .contacts-item:nth-child(3)::before {
+        top: 57px;
+    }
+    .contacts-item:nth-child(4)::before {
+        width: 18px;
+        height: 18px;
+        top: 87px;
+    }
+    .contacts-item:nth-child(5)::before {
+        width: 18px;
+        height: 18px;
+        top: 114px;
+    }
+    .title, .profile-title {
+        text-align: center;
+    }
+}
+@media (max-width: 576px) {
+    .header {
+        height: 130px;
+    }
+    .nav-list {
+        height: 130px;
+    }
+    .block-right, .block-left {
+        padding: 20px 20px;
+    }
+    .foto {
+        width: 200px;
+        height: 200px;
+    }
+    .title {
+        font-size: 30px;
+    }
+    .contacts-list {
+        padding-left: 0;
+    }
+    .contacts-item::before {
+        display: none;
+    }
+    .courses-item:nth-child(2)::before {
+        top: 57px;
+    }
+    .courses-item:nth-child(3)::before {
+        top: 111px;
+    }
+    .projects-img {
+        width: 260px;
+        height: 150px;
+    }
+    pre {
+        padding-left: 10px;
+        font-size: 16px;
+        background-color: #f5f5f5;
+    }
+    footer {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .githab-link {
+        padding-right: 20px;
+    }
+}
