@@ -7,3 +7,11 @@ I am a beginner frontend developer. I chose this profession because I like to so
 **Email:** v.puzyrevich@gmail.com  
 **GitHub:** [vpuzyrevich](https://github.com/vpuzyrevich)  
 **Location:** Minsk, Belarus 
+
+## Skills
+* HTML5
+* CSS3
+* SASS/SCSS
+* Git
+* Figma, Adobe Photoshop
+* JavaScript (Basics)
