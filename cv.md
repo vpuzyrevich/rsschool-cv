@@ -15,3 +15,22 @@ I am a beginner frontend developer. I chose this profession because I like to so
 * Git
 * Figma, Adobe Photoshop
 * JavaScript (Basics)
+
+## Code Example
+```
+function multiply(a, b){
+  return (a * b)
+}
+```
+
+## Experience
+My study project
+* [Uber](https://vpuzyrevich.github.io): using HTML5, CSS3
+
+## Courses:
+* Udemy: Web developer(HTML/CSS)
+* Udemy: JavaScript ang React
+* RS Schools Course «JavaScript/Front-end. Stage 0»
+## Languages
+**Russian** - native speaker  
+**English** - A2 (in progress) 
